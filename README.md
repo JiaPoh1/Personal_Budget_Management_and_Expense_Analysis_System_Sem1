@@ -33,11 +33,11 @@ g++ main.cpp -o program
 ./program
 ```
 ## 🖥️ Sample Output
-Enter your fixed income: 2000
+Enter your fixed income: 4000
 
-Enter your variable income: 500
+Enter your variable income: 2000
 
-Enter the number of fixed expenses: 3
+Enter the number of fixed expenses: 5
 
 Enter fixed expense 1: 100
 
@@ -45,27 +45,35 @@ Enter fixed expense 2: 200
 
 Enter fixed expense 3: 300
 
-Enter the number of variable expenses: 2
+Enter fixed expense 4: 400
 
-Enter variable expense 1: 250
+Enter fixed expense 5: 500
 
-Enter variable expense 2: 150
+Enter the number of variable expenses: 4
 
-Enter your savings goal: 1000
+Enter variable expense 1: 100
+
+Enter variable expense 2: 200
+
+Enter variable expense 3: 300
+
+Enter variable expense 4: 400
+
+Enter your savings goal: 1500
 <br/><br/><br/>
 --- Results ---
 
-Total Income:RM2500
+Total Income:RM 6000
 
-Total Fixed Expenses:RM 600
+Total Fixed Expenses:RM 1500
 
-Total Variable Expenses:RM 400
+Total Variable Expenses:RM 1000
 
-Total Expenses:RM 1000
+Total Expenses:RM 2500
 
-Actual Savings:RM 1500
+Actual Savings:RM 3500
 
-Savings goal met! Extra savings:RM 500
+Savings goal met! Extra savings:RM 2000
 
 This program will generate the expense report.
 
@@ -77,27 +85,39 @@ Enter your expenses on transportation: RM 100
 Enter Y to add more: n
 <br/><br/>
 
+Enter your expenses on food: RM 200
+
+Enter Y to add more: y
+<br/><br/>
+
 Enter your expenses on food: RM 300
+Enter Y to add more: n
+<br/><br/>
+
+Enter your expenses on utilities: RM 400
+
+Enter Y to add more: y
+<br/><br/>
+
+Enter your expenses on utilities: RM 500
+Enter Y to add more: n
+<br/><br/>
+
+Enter your expenses on medical and healthcare: RM 100
 
 Enter Y to add more: n
 <br/><br/>
 
-Enter your expenses on utilities: RM 200
+Enter your expenses on personal spending: RM 200
 
+Enter Y to add more : y
+<br/><br/>
+
+Enter your expenses on personal spending: RM 300
 Enter Y to add more: n
 <br/><br/>
 
-Enter your expenses on medical and healthcare: RM 250
-
-Enter Y to add more: n
-<br/><br/>
-
-Enter your expenses on personal spending: RM 150
-
-Enter Y to add more : n
-<br/><br/>
-
-Enter your expenses on entertainment: RM 0
+Enter your expenses on entertainment: RM 400
 
 Enter Y to add more: n
 <br/><br/><br/>
@@ -108,32 +128,32 @@ Your transportation total expenses are RM 100.00
 
 FOOD:
 
-Your food total expenses are RM 300.00
+Your food total expenses are RM 500.00
 <br/><br/>
 
 UTILITIES:
 
-Your utilities total expenses are RM 200.00
+Your utilities total expenses are RM 900.00
 <br/><br/>
 
 MEDICAL AND HEALTHCARE:
 
-Your medical and healthcare total expenses are RM 250.00
+Your medical and healthcare total expenses are RM 100.00
 <br/><br/>
 
 PERSONAL SPENDING:
 
-Your personal spending total expenses are RM 150.00
+Your personal spending total expenses are RM 500.00
 <br/><br/>
 
 ENTERTAINMENT:
 
-Your entertainmet total expenses are RM 0.00
+Your entertainmet total expenses are RM 400.00
 <br/><br/>
 
 TOTAL EXPENSES:
 
-Your total expenses are RM 1000.00
+Your total expenses are RM 2500.00
 <br/><br/>
 
 Enter Y to see the the percentage of total expenses on each category: y
@@ -141,49 +161,49 @@ Enter Y to see the the percentage of total expenses on each category: y
 
 TRANSPORTATION:
 
-Your transportation percentage of total expenses are 10.00%
+Your transportation percentage of total expenses are 4.00%
 <br/><br/>
 
 FOOD:
 
-Your food percentage of total expenses are 30.00%
+Your food percentage of total expenses are 20.00%
 <br/><br/>
 
 UTILITIES:
 
-Your utilities percentage of total expenses are 20.00%
+Your utilities percentage of total expenses are 36.00%
 <br/><br/>
 
 MEDICAL AND HEALTHCARE:
 
-Your medical and healthcare percentage of total expenses are 25.00%
+Your medical and healthcare percentage of total expenses are 4.00%
 <br/><br/>
 
 PERSONAL SPENDING:
 
-Your personal spending percentage of total expenses are 15.00%
+Your personal spending percentage of total expenses are 20.00%
 <br/><br/>
 
 ENTERTAINMENT:
 
-Your entertainmet percentage of total expenses are 0.00%
+Your entertainment percentage of total expenses are 16.00%
 <br/><br/>
 
-Your available budget: RM1500.00
+Your available budget: RM3500.00
 
 Total percentage of all categories: 100.00%
 
-Category budget transportation: RM150.00
+Transportation budget: RM140.00
 
-Category budget food: RM450.00
+Food budget: RM700.00
 
-Category budget utilities: RM300.00
+Utilities budget: RM1260.00
 
-Category budget medical and healthcare: RM375.00
+Medical and Healthcare budget: RM140.00
 
-Category budget personal spending: RM225.00
+Personal Spending budget: RM700.00
 
-Category budget entertainment: RM0.00
+Entertainment budget: RM560.00
 
   
 ## ⚠️ Notes
