@@ -52,7 +52,7 @@ Enter variable expense 1: 250
 Enter variable expense 2: 150
 
 Enter your savings goal: 1000
-
+<br/><br/><br/>
 --- Results ---
 
 Total Income:RM2500
@@ -70,104 +70,104 @@ Savings goal met! Extra savings:RM 500
 This program will generate the expense report.
 
 First of all, please enter all of your expenses based on the category.
-
+<br/><br/><br/>
 
 Enter your expenses on transportation: RM 100
 
 Enter Y to add more: n
-
+<br/><br/>
 
 Enter your expenses on food: RM 300
 
 Enter Y to add more: n
-
+<br/><br/>
 
 Enter your expenses on utilities: RM 200
 
 Enter Y to add more: n
-
+<br/><br/>
 
 Enter your expenses on medical and healthcare: RM 250
 
 Enter Y to add more: n
-
+<br/><br/>
 
 Enter your expenses on personal spending: RM 150
 
 Enter Y to add more : n
-
+<br/><br/>
 
 Enter your expenses on entertainment: RM 0
 
 Enter Y to add more: n
-
+<br/><br/><br/>
 TRANSPORTATION:
 
 Your transportation total expenses are RM 100.00
-
+<br/><br/>
 
 FOOD:
 
 Your food total expenses are RM 300.00
-
+<br/><br/>
 
 UTILITIES:
 
 Your utilities total expenses are RM 200.00
-
+<br/><br/>
 
 MEDICAL AND HEALTHCARE:
 
 Your medical and healthcare total expenses are RM 250.00
-
+<br/><br/>
 
 PERSONAL SPENDING:
 
 Your personal spending total expenses are RM 150.00
-
+<br/><br/>
 
 ENTERTAINMENT:
 
 Your entertainmet total expenses are RM 0.00
-
+<br/><br/>
 
 TOTAL EXPENSES:
 
 Your total expenses are RM 1000.00
-
+<br/><br/>
 
 Enter Y to see the the percentage of total expenses on each category: y
-
+<br/><br/><br/>
 
 TRANSPORTATION:
 
 Your transportation percentage of total expenses are 10.00%
-
+<br/><br/>
 
 FOOD:
 
 Your food percentage of total expenses are 30.00%
-
+<br/><br/>
 
 UTILITIES:
 
 Your utilities percentage of total expenses are 20.00%
-
+<br/><br/>
 
 MEDICAL AND HEALTHCARE:
 
 Your medical and healthcare percentage of total expenses are 25.00%
-
+<br/><br/>
 
 PERSONAL SPENDING:
 
 Your personal spending percentage of total expenses are 15.00%
-
+<br/><br/>
 
 ENTERTAINMENT:
 
 Your entertainmet percentage of total expenses are 0.00%
-
+<br/><br/>
 
 Your available budget: RM1500.00
 
