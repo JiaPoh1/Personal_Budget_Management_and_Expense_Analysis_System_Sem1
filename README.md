@@ -91,6 +91,7 @@ Enter Y to add more: y
 <br/><br/>
 
 Enter your expenses on food: RM 300
+
 Enter Y to add more: n
 <br/><br/>
 
@@ -100,6 +101,7 @@ Enter Y to add more: y
 <br/><br/>
 
 Enter your expenses on utilities: RM 500
+
 Enter Y to add more: n
 <br/><br/>
 
@@ -114,6 +116,7 @@ Enter Y to add more : y
 <br/><br/>
 
 Enter your expenses on personal spending: RM 300
+
 Enter Y to add more: n
 <br/><br/>
 
